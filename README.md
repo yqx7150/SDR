@@ -8,7 +8,7 @@ Sparse and dense hybrid representation via subspace modeling for dynamic MRI
 %   
 %   Please cite the paper when you use th code:   
 %   The Code is created based on the method described in the following paper     
-%   Q. Liu, S. Wang, D. Liang. Sparse and dense hybrid representation via subspace modeling for dynamic MRI,      
+%   [1] Q. Liu, S. Wang, D. Liang. Sparse and dense hybrid representation via subspace modeling for dynamic MRI,      
 %   Computerized Medical Imaging and Graphics, 56: 24-37, 2017.    
 %   Copyright 2015, Nanchang University.    
 %   The code and the algorithm are for non-comercial use only.    
