@@ -16,7 +16,7 @@ Sparse and dense hybrid representation via subspace modeling for dynamic MRI
 % The data phan.mat is available at: https://drive.google.com/drive/folders/0B3EiIvcKNZj8fkplX1JGR21yNjdORkhralp1NGxNb1RTRGFfOWZ0dGthNk5CeVpBV1FWZVE. 
 
 ## Visual illustration of the signal characteristics with two-subspace modeling.
-<div align=center><img width="350" height="370" src="./figs_SDR/SDR1.png"/></div> 
+<div align=center><img width="350" height="360" src="./figs_SDR/SDR1.png"/></div> 
 The dMRI series data is modeled as the sum of a static component and a motion features component under the desired dictionary V.
 
 ## Other Related Projects
