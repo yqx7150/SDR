@@ -19,6 +19,13 @@ Sparse and dense hybrid representation via subspace modeling for dynamic MRI
 <div align=center><img src="./figs_SDR/SDR1.png"/></div> 
 The dMRI series data is modeled as the sum of a static component and a motion features component under the desired dictionary V.
 
+## Visual illustration of the coefficients in two subspaces.
+<div align=center><img src="./figs_SDR/SDR2.png"/></div> 
+
+## Different types of separation into low-rank and sparse components using SDR.
+![](./figs_SDR/SDR3.png)  
+From top to bottom: the low-rank, sparse and the final result.
+
 ## Other Related Projects
   * Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL) [<font size=5>**[Paper]**</font>](http://www.escience.cn/people/liuqiegen/index.html;jsessionid=5E20FEE3694E8BB3249B64202A8E25C8-n1)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PDL_ALM_DL_code) 
 
