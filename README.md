@@ -16,9 +16,8 @@ Sparse and dense hybrid representation via subspace modeling for dynamic MRI
 % The data phan.mat is available at: https://drive.google.com/drive/folders/0B3EiIvcKNZj8fkplX1JGR21yNjdORkhralp1NGxNb1RTRGFfOWZ0dGthNk5CeVpBV1FWZVE. 
 
 ## Visual illustration of the signal characteristics with two-subspace modeling.
-<div align=center><img width="350" height="360" src="./figs_SDR/SDR1.png"/></div> 
-The dMRI series data is modeled as the sum of a static component and a motion features component under the desired dictionary V.
 <div align=center><img src="./figs_SDR/SDR1.png"/></div> 
+The dMRI series data is modeled as the sum of a static component and a motion features component under the desired dictionary V.
 
 ## Other Related Projects
   * Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL) [<font size=5>**[Paper]**</font>](http://www.escience.cn/people/liuqiegen/index.html;jsessionid=5E20FEE3694E8BB3249B64202A8E25C8-n1)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PDL_ALM_DL_code) 
